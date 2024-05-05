@@ -16,3 +16,14 @@ PG life is a leading real estate agency that specializes in helping clients buy,
 ### Find House
 ![image](https://github.com/Durgesh4993/PG-Life/assets/98798977/b1bc8277-a0ec-4a1d-9dd5-84e472c85544)
 
+## Installation
+
+```
+yarn install
+```
+
+```
+npm run dev
+```
+
+Note: Don't forget to add your database
