@@ -3,14 +3,16 @@ House Dekho is a leading real estate agency that specializes in helping clients 
 
 
 ### Home Page
-<img width="959" alt="image" src="https://github.com/Durgesh4993/HouseDekho/assets/98798977/390d91d9-97da-42d5-9774-ce8514cdb2e3">
+![image](https://github.com/Durgesh4993/PG-Life/assets/98798977/9a0e9267-ed0f-45af-8f51-0f66f8861c0d)
 
 ### About Us
-<img width="959" alt="image" src="https://github.com/Durgesh4993/HouseDekho/assets/98798977/cc983cfb-4836-49f4-ac74-83586cbbfc58">
+![image](https://github.com/Durgesh4993/PG-Life/assets/98798977/56812c0f-1bfd-40f2-a919-c21db7766c7b)
 
 ### SignUp\ Login 
-<img width="959" alt="image" src="https://github.com/Durgesh4993/HouseDekho/assets/98798977/5c8f0a6f-a8c9-4941-9ca7-081334c3effb">
-<img width="959" alt="image" src="https://github.com/Durgesh4993/HouseDekho/assets/98798977/42ff68f9-f1a6-43b5-bc2e-35766bd91d9c">
+![image](https://github.com/Durgesh4993/PG-Life/assets/98798977/1c113357-10f3-4493-a381-74a096e1d3c6)
+![image](https://github.com/Durgesh4993/PG-Life/assets/98798977/0b3ab7f2-2078-4175-be33-322286d8e709)
+
 
 ### Find House
-<img width="959" alt="image" src="https://github.com/Durgesh4993/HouseDekho/assets/98798977/ce5d3ab4-ee77-4706-b8cc-a7855828a410">
+![image](https://github.com/Durgesh4993/PG-Life/assets/98798977/b1bc8277-a0ec-4a1d-9dd5-84e472c85544)
+
